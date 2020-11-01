@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\game-horse -ace\bin\Debug\game-horse -ace.exe.config
+C:\Users\urems\source\repos\games\game-horse -ace\bin\Debug\game-horse -ace.exe
+C:\Users\urems\source\repos\games\game-horse -ace\bin\Debug\game-horse -ace.pdb
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game_horse__ace.Horses.resources
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game_horse__ace.Properties.Resources.resources
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.exe
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.pdb

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Programming Game", "Programming Game", "{0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game-horse -ace", "game-horse -ace\game-horse -ace.csproj", "{375B3965-1ABB-4A17-BC96-53D8D638386F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375B3965-1ABB-4A17-BC96-53D8D638386F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375B3965-1ABB-4A17-BC96-53D8D638386F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375B3965-1ABB-4A17-BC96-53D8D638386F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375B3965-1ABB-4A17-BC96-53D8D638386F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{375B3965-1ABB-4A17-BC96-53D8D638386F} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6021F347-6020-4A1F-964C-6DEDAAEC3DED}
+	EndGlobalSection
+EndGlobal
