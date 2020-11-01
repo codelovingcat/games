@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\games-dice\bin\Debug\games-dice.exe.config
+C:\Users\urems\source\repos\games\games-dice\bin\Debug\games-dice.exe
+C:\Users\urems\source\repos\games\games-dice\bin\Debug\games-dice.pdb
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games-dice.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games_dice.ZarGame.resources
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games_dice.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games-dice.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games-dice.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games-dice.exe
+C:\Users\urems\source\repos\games\games-dice\obj\Debug\games-dice.pdb

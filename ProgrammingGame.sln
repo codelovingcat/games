@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game-horse -ace", "game-hor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-quiz show", "games-quiz show\games-quiz show.csproj", "{4BD60AD3-4252-46AB-9182-2A9072CA4C9E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-dice", "games-dice\games-dice.csproj", "{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{4BD60AD3-4252-46AB-9182-2A9072CA4C9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BD60AD3-4252-46AB-9182-2A9072CA4C9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BD60AD3-4252-46AB-9182-2A9072CA4C9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,6 +36,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{375B3965-1ABB-4A17-BC96-53D8D638386F} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 		{4BD60AD3-4252-46AB-9182-2A9072CA4C9E} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
+		{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6021F347-6020-4A1F-964C-6DEDAAEC3DED}
