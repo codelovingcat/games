@@ -64,7 +64,7 @@
             this.lblText.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.lblText.Font = new System.Drawing.Font("Minion Pro SmBd", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
             this.lblText.ForeColor = System.Drawing.Color.White;
-            this.lblText.Location = new System.Drawing.Point(233, 425);
+            this.lblText.Location = new System.Drawing.Point(285, 425);
             this.lblText.Name = "lblText";
             this.lblText.Size = new System.Drawing.Size(577, 29);
             this.lblText.TabIndex = 35;
@@ -73,7 +73,7 @@
             // btnStart
             // 
             this.btnStart.Font = new System.Drawing.Font("Minion Pro SmBd", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.btnStart.Location = new System.Drawing.Point(111, 412);
+            this.btnStart.Location = new System.Drawing.Point(53, 412);
             this.btnStart.Name = "btnStart";
             this.btnStart.Size = new System.Drawing.Size(116, 54);
             this.btnStart.TabIndex = 24;
@@ -84,9 +84,9 @@
             // lblFinish
             // 
             this.lblFinish.BackColor = System.Drawing.Color.DarkSeaGreen;
-            this.lblFinish.Location = new System.Drawing.Point(816, -2);
+            this.lblFinish.Location = new System.Drawing.Point(990, 9);
             this.lblFinish.Name = "lblFinish";
-            this.lblFinish.Size = new System.Drawing.Size(10, 398);
+            this.lblFinish.Size = new System.Drawing.Size(10, 482);
             this.lblFinish.TabIndex = 23;
             // 
             // label4
@@ -94,7 +94,7 @@
             this.label4.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.label4.Location = new System.Drawing.Point(1, 386);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(815, 10);
+            this.label4.Size = new System.Drawing.Size(999, 10);
             this.label4.TabIndex = 22;
             // 
             // label3
@@ -102,7 +102,7 @@
             this.label3.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.label3.Location = new System.Drawing.Point(1, 250);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(815, 10);
+            this.label3.Size = new System.Drawing.Size(999, 10);
             this.label3.TabIndex = 21;
             // 
             // label2
@@ -110,15 +110,15 @@
             this.label2.BackColor = System.Drawing.Color.DarkSeaGreen;
             this.label2.Location = new System.Drawing.Point(1, 124);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(815, 10);
+            this.label2.Size = new System.Drawing.Size(999, 10);
             this.label2.TabIndex = 20;
             // 
             // label1
             // 
             this.label1.BackColor = System.Drawing.Color.DarkSeaGreen;
-            this.label1.Location = new System.Drawing.Point(1, -2);
+            this.label1.Location = new System.Drawing.Point(2, -1);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(815, 10);
+            this.label1.Size = new System.Drawing.Size(998, 10);
             this.label1.TabIndex = 19;
             // 
             // timerHorse
@@ -130,7 +130,7 @@
             this.picture2Horse.Image = global::game_horse__ace.Properties.Resources.horse2;
             this.picture2Horse.Location = new System.Drawing.Point(4, 137);
             this.picture2Horse.Name = "picture2Horse";
-            this.picture2Horse.Size = new System.Drawing.Size(125, 110);
+            this.picture2Horse.Size = new System.Drawing.Size(165, 110);
             this.picture2Horse.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picture2Horse.TabIndex = 29;
             this.picture2Horse.TabStop = false;
@@ -140,7 +140,7 @@
             this.picture3Horse.Image = global::game_horse__ace.Properties.Resources.horse3;
             this.picture3Horse.Location = new System.Drawing.Point(4, 263);
             this.picture3Horse.Name = "picture3Horse";
-            this.picture3Horse.Size = new System.Drawing.Size(125, 120);
+            this.picture3Horse.Size = new System.Drawing.Size(165, 120);
             this.picture3Horse.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.picture3Horse.TabIndex = 27;
             this.picture3Horse.TabStop = false;
@@ -150,7 +150,7 @@
             this.pictureBirHorse.Image = global::game_horse__ace.Properties.Resources.horse1;
             this.pictureBirHorse.Location = new System.Drawing.Point(4, 11);
             this.pictureBirHorse.Name = "pictureBirHorse";
-            this.pictureBirHorse.Size = new System.Drawing.Size(125, 110);
+            this.pictureBirHorse.Size = new System.Drawing.Size(165, 110);
             this.pictureBirHorse.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBirHorse.TabIndex = 25;
             this.pictureBirHorse.TabStop = false;
@@ -160,7 +160,7 @@
             this.pictureBox1.Image = global::game_horse__ace.Properties.Resources.hors;
             this.pictureBox1.Location = new System.Drawing.Point(4, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(795, 345);
+            this.pictureBox1.Size = new System.Drawing.Size(984, 371);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 38;
             this.pictureBox1.TabStop = false;
@@ -170,7 +170,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Ivory;
-            this.ClientSize = new System.Drawing.Size(828, 493);
+            this.ClientSize = new System.Drawing.Size(1000, 493);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.btnNewGame);
             this.Controls.Add(this.lblText);
