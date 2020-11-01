@@ -1,0 +1,15 @@
+C:\Users\urems\source\repos\games\game-supporter\bin\Debug\game-supporter.exe.config
+C:\Users\urems\source\repos\games\game-supporter\bin\Debug\game-supporter.exe
+C:\Users\urems\source\repos\games\game-supporter\bin\Debug\game-supporter.pdb
+C:\Users\urems\source\repos\games\game-supporter\bin\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\games\game-supporter\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game-supporter.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game-supporter.csproj.ResolveComReference.cache
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game_supporter.Supporties.resources
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game_supporter.Properties.Resources.resources
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game-supporter.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game-supporter.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game-supporter.exe
+C:\Users\urems\source\repos\games\game-supporter\obj\Debug\game-supporter.pdb

@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\games-picturebox\bin\Debug\games-picturebox.exe.config
+C:\Users\urems\source\repos\games\games-picturebox\bin\Debug\games-picturebox.exe
+C:\Users\urems\source\repos\games\games-picturebox\bin\Debug\games-picturebox.pdb
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games-picturebox.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games_picturebox.Picturebox.resources
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games_picturebox.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games-picturebox.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games-picturebox.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games-picturebox.exe
+C:\Users\urems\source\repos\games\games-picturebox\obj\Debug\games-picturebox.pdb
