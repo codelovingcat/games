@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\games-quiz show\bin\Debug\games-quiz show.exe.config
+C:\Users\urems\source\repos\games\games-quiz show\bin\Debug\games-quiz show.exe
+C:\Users\urems\source\repos\games\games-quiz show\bin\Debug\games-quiz show.pdb
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games_quiz_show.Quiz.resources
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games_quiz_show.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games-quiz show.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games-quiz show.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games-quiz show.exe
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games-quiz show.pdb
+C:\Users\urems\source\repos\games\games-quiz show\obj\Debug\games-quiz show.csprojAssemblyReference.cache
