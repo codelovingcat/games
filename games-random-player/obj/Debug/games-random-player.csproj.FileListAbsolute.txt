@@ -1,0 +1,15 @@
+C:\Users\urems\source\repos\games\games-random-player\bin\Debug\games-random-player.exe.config
+C:\Users\urems\source\repos\games\games-random-player\bin\Debug\games-random-player.exe
+C:\Users\urems\source\repos\games\games-random-player\bin\Debug\games-random-player.pdb
+C:\Users\urems\source\repos\games\games-random-player\bin\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\games\games-random-player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games-random-player.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\Interop.WMPLib.dll
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games-random-player.csproj.ResolveComReference.cache
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games_random_player.Form1.resources
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games_random_player.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games-random-player.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games-random-player.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games-random-player.exe
+C:\Users\urems\source\repos\games\games-random-player\obj\Debug\games-random-player.pdb

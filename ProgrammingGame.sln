@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "game-supporter", "game-supp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-picturebox", "games-picturebox\games-picturebox.csproj", "{552BFC38-3870-463B-A3EA-0D91DE5BA878}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-random-player", "games-random-player\games-random-player.csproj", "{517292A7-5A48-4A9E-BB21-B60C0B8D4AD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{552BFC38-3870-463B-A3EA-0D91DE5BA878}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{552BFC38-3870-463B-A3EA-0D91DE5BA878}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{552BFC38-3870-463B-A3EA-0D91DE5BA878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{517292A7-5A48-4A9E-BB21-B60C0B8D4AD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{517292A7-5A48-4A9E-BB21-B60C0B8D4AD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{517292A7-5A48-4A9E-BB21-B60C0B8D4AD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{517292A7-5A48-4A9E-BB21-B60C0B8D4AD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{C82BE2B2-3FB8-41E8-920B-13B50DE30DB8} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 		{0E9A2EB8-F82C-4A4C-BC90-F8415095497C} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 		{552BFC38-3870-463B-A3EA-0D91DE5BA878} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
+		{517292A7-5A48-4A9E-BB21-B60C0B8D4AD6} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6021F347-6020-4A1F-964C-6DEDAAEC3DED}
