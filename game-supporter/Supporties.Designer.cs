@@ -208,6 +208,7 @@
             this.Controls.Add(this.btn1);
             this.Name = "Supporties";
             this.Text = "Taraftar";
+            this.Load += new System.EventHandler(this.Supporties_Load);
             ((System.ComponentModel.ISupportInitialize)(this.axWindowsMediaPlayer1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

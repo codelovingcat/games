@@ -25,7 +25,7 @@ namespace game_supporter
             checkGalata.Checked = false;
 
             timer1.Enabled = true;
-            axWindowsMediaPlayer1.URL = @"C:\Users\urems\Videos\beşiktaş.mp3";
+            axWindowsMediaPlayer1.URL = @"C:\Users\urems\source\repos\games\game-supporter\music\besiktas.mp3";
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -151,7 +151,7 @@ namespace game_supporter
             checkGalata.Checked = false;
 
             timer1.Enabled = true;
-            axWindowsMediaPlayer1.URL = @"C:\Users\urems\Videos\trabzonspor.mp3";
+            axWindowsMediaPlayer1.URL = @"C:\Users\urems\source\repos\games\game-supporter\music\trabzon.mp3";
         }
 
         private void checkFener_CheckedChanged(object sender, EventArgs e)
@@ -161,7 +161,7 @@ namespace game_supporter
             checkGalata.Checked = false;
 
             timer1.Enabled = true;
-            axWindowsMediaPlayer1.URL = @"C:\Users\urems\Videos\fener.mp3";
+            axWindowsMediaPlayer1.URL = @"C:\Users\urems\source\repos\games\game-supporter\music\fener.mp3";
         }
 
         private void checkGalata_CheckedChanged(object sender, EventArgs e)
@@ -171,7 +171,12 @@ namespace game_supporter
             checkBesiktas.Checked = false;
 
             timer1.Enabled = true;
-            axWindowsMediaPlayer1.URL = @"C:\Users\urems\Videos\galatasaray.mp3";
+            axWindowsMediaPlayer1.URL = @"C:\Users\urems\source\repos\games\game-supporter\music\galatasaray.mp3";
+        }
+
+        private void Supporties_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
