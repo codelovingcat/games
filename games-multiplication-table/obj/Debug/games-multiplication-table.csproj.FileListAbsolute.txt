@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\games-multiplication-table\bin\Debug\games-multiplication-table.exe.config
+C:\Users\urems\source\repos\games\games-multiplication-table\bin\Debug\games-multiplication-table.exe
+C:\Users\urems\source\repos\games\games-multiplication-table\bin\Debug\games-multiplication-table.pdb
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games-multiplication-table.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games_multiplication_table.Multiplication.resources
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games_multiplication_table.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games-multiplication-table.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games-multiplication-table.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games-multiplication-table.exe
+C:\Users\urems\source\repos\games\games-multiplication-table\obj\Debug\games-multiplication-table.pdb
