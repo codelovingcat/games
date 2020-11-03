@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\games-sudoku\bin\Debug\games-sudoku.exe.config
+C:\Users\urems\source\repos\games\games-sudoku\bin\Debug\games-sudoku.exe
+C:\Users\urems\source\repos\games\games-sudoku\bin\Debug\games-sudoku.pdb
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games-sudoku.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games_sudoku.Form1.resources
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games_sudoku.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games-sudoku.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games-sudoku.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games-sudoku.exe
+C:\Users\urems\source\repos\games\games-sudoku\obj\Debug\games-sudoku.pdb

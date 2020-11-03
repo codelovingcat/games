@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-puzzle", "games-puzzl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-multiplication-table", "games-multiplication-table\games-multiplication-table.csproj", "{27868921-256A-42F5-A12C-EF10C2D136B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "games-sudoku", "games-sudoku\games-sudoku.csproj", "{64B0104E-F7C5-4E8B-8BD6-4B129AE2C3C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,10 @@ Global
 		{27868921-256A-42F5-A12C-EF10C2D136B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27868921-256A-42F5-A12C-EF10C2D136B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27868921-256A-42F5-A12C-EF10C2D136B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64B0104E-F7C5-4E8B-8BD6-4B129AE2C3C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B0104E-F7C5-4E8B-8BD6-4B129AE2C3C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B0104E-F7C5-4E8B-8BD6-4B129AE2C3C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B0104E-F7C5-4E8B-8BD6-4B129AE2C3C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,6 +85,7 @@ Global
 		{A68C0D1C-240C-4E04-A9D1-AA49605DAED0} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 		{249CBF96-E4DB-4AE0-B429-8285775ACD0D} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 		{27868921-256A-42F5-A12C-EF10C2D136B9} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
+		{64B0104E-F7C5-4E8B-8BD6-4B129AE2C3C8} = {0AA95F1C-C30B-4CFC-8F27-86C95892A5A0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6021F347-6020-4A1F-964C-6DEDAAEC3DED}
