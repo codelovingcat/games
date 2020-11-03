@@ -54,8 +54,8 @@ namespace games_snake_game
             SnakePart[SnakePart.Length - 1].Width = 15;
             SnakePart[SnakePart.Length - 1].Height = 15;
             
-            SnakePart[SnakePart.Length - 1].Top = -20; //*
-            SnakePart[SnakePart.Length - 1].Left = -20; //*
+            SnakePart[SnakePart.Length - 1].Top = -20;
+            SnakePart[SnakePart.Length - 1].Left = -20; 
             SnakePart[SnakePart.Length - 1].BackColor = Color.Black;
             pbGame.Controls.Add(SnakePart[SnakePart.Length - 1]);
         }
@@ -112,7 +112,7 @@ namespace games_snake_game
                 LastIndex = 0;
                 HeadIndex = SnakePart.Length - 1;
             }
-            else//www.gorselprogramlama.com
+            else
             {
                 LastIndex++;
                 HeadIndex = LastIndex - 1;
