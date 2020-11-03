@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\games\games-puzzle\bin\Debug\games-puzzle.exe.config
+C:\Users\urems\source\repos\games\games-puzzle\bin\Debug\games-puzzle.exe
+C:\Users\urems\source\repos\games\games-puzzle\bin\Debug\games-puzzle.pdb
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games-puzzle.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games_puzzle.Puzzle.resources
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games_puzzle.Properties.Resources.resources
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games-puzzle.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games-puzzle.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games-puzzle.exe
+C:\Users\urems\source\repos\games\games-puzzle\obj\Debug\games-puzzle.pdb
