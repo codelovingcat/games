@@ -8,3 +8,5 @@ C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.cspr
 C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.csproj.CoreCompileInputs.cache
 C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.exe
 C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.pdb
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\Interop.SpeechLib.dll
+C:\Users\urems\source\repos\games\game-horse -ace\obj\Debug\game-horse -ace.csproj.ResolveComReference.cache

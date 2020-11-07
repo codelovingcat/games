@@ -7,11 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SpeechLib;
 
 namespace game_horse__ace
 {
     public partial class Horses : Form
     {
+        SpVoice audio = new SpVoice();
         int horse1Left, horse2Left,horse3Left;
         Random random = new Random();
         private void timerHorse_Tick(object sender, EventArgs e)
@@ -30,6 +32,7 @@ namespace game_horse__ace
             {
                 timerHorse.Enabled = false;
                 lblText.Text = "1 Nolu at yarışı kazandı!.";
+                audio.Speak(lblText.Text);
                 btnNewGame.Visible = true;
                 btnStart.Visible = false;
                 pictureBox1.ImageLocation = @"C:\Users\urems\source\repos\games\game-horse -ace\images\hors.gif";
@@ -38,6 +41,7 @@ namespace game_horse__ace
             {
                 timerHorse.Enabled = false;
                 lblText.Text = "2 Nolu at yarışı kazandı!.";
+                audio.Speak(lblText.Text);
                 btnNewGame.Visible = true;
                 btnStart.Visible = false;
                 pictureBox1.ImageLocation = @"C:\Users\urems\source\repos\games\game -horse-ace\images\hors.gif";
@@ -46,6 +50,7 @@ namespace game_horse__ace
             {
                 timerHorse.Enabled = false;
                 lblText.Text = "3 Nolu at yarışı kazandı!.";
+                audio.Speak(lblText.Text);
                 btnNewGame.Visible = true;
                 btnStart.Visible = false;
                 pictureBox1.ImageLocation = @"C:\Users\urems\source\repos\games\game -horse-ace\images\hors.gif";
